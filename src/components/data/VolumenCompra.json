@@ -1,0 +1,32 @@
+[
+    {
+        "label": "<Seleccione una opción>",
+        "label2": "N/D",
+        "value": "X"
+    },
+    {
+        "label": "Menos de 2 cajas",
+        "label2": "Menos de 2 cajas",
+        "value": "L"
+    },
+    {
+        "label": "De 2 a 5 cajas",
+        "label2": "De 2 a 5 cajas",
+        "value": "M"
+    },
+    {
+        "label": "De 5 a 10 cajas",
+        "label2": "De 5 a 10 cajas",
+        "value": "H"
+    },
+    {
+        "label": "De 10 a 20 cajas",
+        "label2": "De 10 a 20 cajas",
+        "value": "S"
+    },
+    {
+        "label": "Más de 20 cajas",
+        "label2": "Más de 20 cajas",
+        "value": "U"
+    }
+]

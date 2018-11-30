@@ -1,0 +1,22 @@
+[
+    {
+        "label": "<Seleccione una opción>",
+        "label2": "N/D",
+        "value": "X"
+    },
+    {
+        "label": "Caja de 50",
+        "label2": "Caja de 50",
+        "value": "B"
+    },
+    {
+        "label": "Caja de 100",
+        "label2": "Caja de 100",
+        "value": "M"
+    },
+    {
+        "label": "Sueltos",
+        "label2": "Sueltos",
+        "value": "U"
+    }
+]

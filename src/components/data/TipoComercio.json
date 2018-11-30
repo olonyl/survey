@@ -1,0 +1,34 @@
+[
+    {
+        "label": "Distribuidor",
+        "size": 20
+    },
+    {
+        "label": "Supermercado",
+        "size": 20
+    },
+    {
+        "label": "Autoservicio",
+        "size": 20
+    },
+    {
+        "label": "Hoteles",
+        "size": 20
+    },
+    {
+        "label": "Restaurante",
+        "size": 20
+    },
+    {
+        "label": "Mini mart",
+        "size": 20
+    },
+    {
+        "label": "Pulperias",
+        "size": 20
+    },
+    {
+        "label": "Otros",
+        "size": 20
+    }
+]

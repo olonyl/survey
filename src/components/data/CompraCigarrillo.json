@@ -1,0 +1,12 @@
+[
+    {
+        "label": "Si",
+        "size": 20,
+        "selected": true
+    },
+    {
+        "label": "No",
+        "size": 20,
+        "selected": false
+    }
+]

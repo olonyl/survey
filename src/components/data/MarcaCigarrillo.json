@@ -1,0 +1,37 @@
+[
+    {
+        "label": "<Seleccione una opción>",
+        "label2": "N/D",
+        "value": "X"
+    },
+    {
+        "label": "Millstone",
+        "label2": "Millstone",
+        "value": "D"
+    },
+    {
+        "label": "Maxwell House",
+        "label2": "Maxwell House",
+        "value": "P"
+    },
+    {
+        "label": "Moccono",
+        "label2": "Moccono",
+        "value": "B"
+    },
+    {
+        "label": "Cafe Toro",
+        "label2": "Cafe Toro",
+        "value": "M"
+    },
+    {
+        "label": "Nescafe",
+        "label2": "Nescafe",
+        "value": "L"
+    },
+    {
+        "label": "Folgers",
+        "label2": "Folgers",
+        "value": "L"
+    }
+]

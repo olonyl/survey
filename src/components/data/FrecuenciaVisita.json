@@ -1,0 +1,22 @@
+[
+    {
+        "label": "<Seleccione una opción>",
+        "label2": "N/D",
+        "value": "X"
+    },
+    {
+        "label": "Multiple - Cada - < 7 días",
+        "label2": "Multiple - Cada - < 7 días",
+        "value": "M"
+    },
+    {
+        "label": "Semanala - Cada 7 días",
+        "label2": "Semanala - Cada 7 días",
+        "value": "S"
+    },
+    {
+        "label": "Quincenal - Cada 14 días",
+        "label2": "Quincenal - Cada 14 días",
+        "value": "Q"
+    }
+]

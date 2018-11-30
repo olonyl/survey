@@ -1,0 +1,22 @@
+[
+    {
+        "label": "<Seleccione una opción>",
+        "label2": "N/D",
+        "value": "X"
+    },
+    {
+        "label": "Muy Alta",
+        "label2": "Muy Alta",
+        "value": "M"
+    },
+    {
+        "label": "Alta",
+        "label2": "Alta",
+        "value": "A"
+    },
+    {
+        "label": "Media",
+        "label2": "Media",
+        "value": "L"
+    }
+]

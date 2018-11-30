@@ -1,0 +1,32 @@
+[
+    {
+        "label": "<Seleccione una opción>",
+        "label2": "N/D",
+        "value": "X"
+    },
+    {
+        "label": "Vainilla",
+        "label2": "Vainilla",
+        "value": "L"
+    },
+    {
+        "label": "Mocca",
+        "label2": "Mocca",
+        "value": "M"
+    },
+    {
+        "label": "Irlandes",
+        "label2": "Irlandes",
+        "value": "C"
+    },
+    {
+        "label": "Cubano",
+        "label2": "Cubano",
+        "value": "B"
+    },
+    {
+        "label": "Amaretto",
+        "label2": "Amaretto",
+        "value": "D"
+    }
+]
